@@ -1,8 +1,6 @@
 module github.com/aquasecurity/tracee
 
-go 1.21
-
-toolchain go1.21.5
+go 1.24
 
 require (
 	github.com/IBM/fluent-forward-go v0.2.1
@@ -149,7 +147,7 @@ require (
 	github.com/huandu/xstrings v1.4.0 // indirect
 	github.com/imdario/mergo v0.3.15 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.16.5 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
 	github.com/moby/locker v1.0.1 // indirect
